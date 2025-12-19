@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Los Santos Parano</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Los Santos Parano</h1>
+        <p>Serveur RolePlay sérieux & immersif</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="rules.html">Règlement</a>
+        <a href="links.html">Liens</a>
+    </nav>
+
+    <main>
+        <h2>Bienvenue 👋</h2>
+        <p>
+            Los Santos Parano est un serveur RP axé sur l'immersion,
+            la cohérence et le fair-play.
+        </p>
+
+        <div class="card">
+            <h3>🔫 RP sérieux</h3>
+            <p>Scénarios réalistes, économie équilibrée, staff actif.</p>
+        </div>
+
+        <div class="card">
+            <h3>🚓 Jobs & activités</h3>
+            <p>Police, EMS, illégal, entreprises, événements RP.</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>© Los Santos Parano</p>
+    </footer>
+</body>
+</html>
